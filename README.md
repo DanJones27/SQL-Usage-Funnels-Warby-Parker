@@ -1,4 +1,4 @@
-# Usage-Funnels-with-Warby-Parker
+# Usage-Funnels-Warby-Parker
 
 Warby Parker is a transformative lifestyle brand with a lofty objective: to offer designer eyewear at a revolutionary price while leading the way for socially 
 conscious businesses. Founded in 2010 and named after two characters in an early Jack Kerouac journal, Warby Parker believes in creative thinking, smart design, 
