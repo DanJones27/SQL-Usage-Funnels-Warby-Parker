@@ -4,8 +4,7 @@ Warby Parker is a transformative lifestyle brand with a lofty objective: to offe
 conscious businesses. Founded in 2010 and named after two characters in an early Jack Kerouac journal, Warby Parker believes in creative thinking, smart design, 
 and doing good in the world. For every pair of eyeglasses and sunglasses sold, a pair is distributed to someone in need.
 
-In this project, you will analyze different Warby Parker’s marketing funnels in order to calculate conversion rates. Here are the funnels and the tables that you 
-are given:
+In this project, I analysed different Warby Parker’s marketing funnels in order to calculate conversion rates. Here are the funnels and the tables provided:
 
 Quiz Funnel:
 
@@ -17,4 +16,4 @@ Home Try-On Funnel:
 - home_try_on
 - purchase
 
-This Codecademy project was a collaboration with Warby Parker’s Data Science team (thank you!) and uses fictional data.
+The project was a collaboration with Warby Parker’s Data Science team (thank you!) and uses fictional data.
